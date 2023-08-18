@@ -18,7 +18,7 @@ public class Main {
         cicuenta.next = veinte;
         veinte.next = diez;
 
-        cien.handle(10);
+        cien.handle(1250);
 
     }
 }
